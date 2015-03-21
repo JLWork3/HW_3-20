@@ -64,7 +64,20 @@ public class Fibonacci {
 
         System.out.println("Result: " + fibonacciMethod(inputNumber));
 
+        // Printing Fibonacci Numbers
+        //declared variables with long because the values will increase
+        long  a = 0;
+        long  b = 1;
+        long c;
 
+        System.out.print(a);
+        System.out.print(b);
+        for(int i =0; i <= 50; i ++ ){
+            c= (a + b);
+            a= b;
+            b= c;
+            System.out.print( c + " ");
+        }
     }
 
 }

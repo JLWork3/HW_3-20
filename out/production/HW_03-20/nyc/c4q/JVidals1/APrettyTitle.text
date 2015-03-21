@@ -13,10 +13,6 @@ public class APrettyTitle {
 
 
 
-
-
-    static public void main (String []args){
-
     }
 
 }
