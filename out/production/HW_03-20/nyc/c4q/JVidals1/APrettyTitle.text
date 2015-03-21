@@ -1,0 +1,22 @@
+package nyc.c4q.JVidals1;
+
+/**
+ * Created by s3a on 3/20/15.
+ * Janneisy Vidals
+ * 2.1 Accesscode
+ */
+public class APrettyTitle {
+
+    public static String addStar(String c, String text ) {
+
+   
+
+
+
+
+
+    static public void main (String []args){
+
+    }
+
+}
